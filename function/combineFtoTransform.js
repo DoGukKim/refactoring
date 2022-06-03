@@ -12,3 +12,4 @@ const enrichReading = (original) => {
   result.baseCharge = calculateBaseCharge(result);
   return result;
 };
+//
